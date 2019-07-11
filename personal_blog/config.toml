@@ -2,7 +2,7 @@
 baseurl = "https://example.com/"
 languageCode = "es"
 
-title = "Ciencia de datos en Nicaragua"
+title = "Ciencia de datos"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -16,7 +16,7 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Deybi Morales León"
+    author = "Deybi Morales"
     title = "moraleseconomia"
     # description = "..."
     authorimage = "/img/hugo.png"
