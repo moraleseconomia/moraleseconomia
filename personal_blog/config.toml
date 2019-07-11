@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://moraleseconomia.netlify.com/"
 languageCode = "es"
 
 title = "Ciencia de datos"
@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "Deybi Morales"
     title = "moraleseconomia"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/perfil_deybi2.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license

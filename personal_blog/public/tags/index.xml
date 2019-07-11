@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ciencia de datos</title>
-    <link>https://example.com/tags/</link>
+    <link>https://moraleseconomia.netlify.com/tags/</link>
     <description>Recent content in Tags on Ciencia de datos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moraleseconomia.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R Markdown</title>
-      <link>https://example.com/tags/r-markdown/</link>
+      <link>https://moraleseconomia.netlify.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/r-markdown/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://example.com/tags/plot/</link>
+      <link>https://moraleseconomia.netlify.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/plot/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://example.com/tags/regression/</link>
+      <link>https://moraleseconomia.netlify.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/regression/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://moraleseconomia.netlify.com/tags/css/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://moraleseconomia.netlify.com/tags/html/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>https://moraleseconomia.netlify.com/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://example.com/tags/theme/</link>
+      <link>https://moraleseconomia.netlify.com/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/theme/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://example.com/tags/development/</link>
+      <link>https://moraleseconomia.netlify.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/development/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://example.com/tags/go/</link>
+      <link>https://moraleseconomia.netlify.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/go/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://example.com/tags/golang/</link>
+      <link>https://moraleseconomia.netlify.com/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/golang/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://example.com/tags/templates/</link>
+      <link>https://moraleseconomia.netlify.com/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/templates/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
+      <link>https://moraleseconomia.netlify.com/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/themes/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>https://example.com/tags/jekyll/</link>
+      <link>https://moraleseconomia.netlify.com/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/jekyll/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>migration</title>
-      <link>https://example.com/tags/migration/</link>
+      <link>https://moraleseconomia.netlify.com/tags/migration/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/migration/</guid>
+      <guid>https://moraleseconomia.netlify.com/tags/migration/</guid>
       <description></description>
     </item>
     
