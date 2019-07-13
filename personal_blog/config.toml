@@ -56,12 +56,12 @@ theme = "hyde-hyde"
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
+    name = "Portafolio"
     weight = 100
     identifier = "blog"
     url = "/posts/"
 [[menu.main]]
-    name = "Portafolio"
+    name = "Blog"
     identifier = "portfolio"
     weight = 200
     url = "/portfolio/"
