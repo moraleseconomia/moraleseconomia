@@ -2,7 +2,7 @@
 baseurl = "https://moraleseconomia.netlify.com/"
 languageCode = "es"
 
-title = "Ciencia de datos"
+title = "Economista"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -24,8 +24,8 @@ theme = "hyde-hyde"
 
     # sidebar, copyright & license
     copyright = "htr3n"
-    license = "CC BY-SA 4.0"
-    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    #license = "CC BY-SA 4.0"
+    #licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
     showBuiltWith = true
 
     # https://highlightjs.org
@@ -43,30 +43,30 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
-    email = "your-email@example.com"
+    github = "moraleseconomia"
+#    instagram = "<username>"
+#    xing = "<username>"
+    linkedin = "deybi-morales-león-b386b342"
+#    twitter = "<username>"
+#    facebook = "<username>"
+#    stackoverflow = "<username>"
+#    telegram = "<username>"
+    email = "morales.economia@gmail.com"
     # gravatar = "your-email@example.com"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
+    name = "blog"
     weight = 100
-    identifier = "posts"
+    identifier = "blog"
     url = "/posts/"
 [[menu.main]]
-    name = "Portfolio"
+    name = "Portafolio"
     identifier = "portfolio"
     weight = 200
     url = "/portfolio/"
 [[menu.main]]
-    name = "About"
+    name = "Acerca de mi"
     identifier = "about"
     weight = 300
     url = "/about/"

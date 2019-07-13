@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ciencia de datos</title>
+    <title>Economista</title>
     <link>https://moraleseconomia.netlify.com/</link>
-    <description>Recent content on Ciencia de datos</description>
+    <description>Recent content on Economista</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://moraleseconomia.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,19 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Acerca de mi</title>
+      <link>https://moraleseconomia.netlify.com/about/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://moraleseconomia.netlify.com/about/</guid>
+      <description>Bienvenido a mi página web.
+Soy Deybi Morales León, licenciado en Economía Aplicada.
+Laboro actualmente en el Fondo de Garantía de Depósitos de las Instituciones Financieras (FOGADE).
+En mis tiempos libres he sido docente en la Universidad Politécnica de Nicaragua (UPOLI) y Universidad Centroamericana (UCA). Impartiendo clases como: Mercados Financieros, Programación estadística, Mercado de Capitales, Economía General y Finanzas Pública.
+Esta página web ha sido creada para compartir y enseñar conocimientos en base a lo que me gusta aprender.</description>
     </item>
     
     <item>
@@ -68,17 +81,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://moraleseconomia.netlify.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://moraleseconomia.netlify.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
